@@ -101,6 +101,28 @@ margin: auto;
   height: auto;
 }
 
+  input.mce-embedded-subscribe-form-btn {
+	    display: block;
+	    margin-top: 2.5em;
+	    padding: 1.5em;
+	    width: 100%;
+	    border: none;
+	    background: #34495e;
+	    color: #fff;
+	    text-transform: uppercase;
+	    letter-spacing: 1px;
+	    font-weight: 800;
+	    font-size: 1.25em;
+}
+
+input.mce-embedded-subscribe-form-btn hover{
+background: #1abc9c;
+}
+
+
+
+
+
 /*magnific */
 .mfp-bg {
 background: #000000 !important;
